@@ -194,7 +194,7 @@ DeviceType=Windows
 +CVars=ShowFlag.DynamicShadows=0
 +CVars=ShowFlag.Editor=0
 +CVars=ShowFlag.EyeAdaptation=0
-+CVars=;ShowFlag.Fog=0
++CVars=ShowFlag.Fog=0
 +CVars=ShowFlag.Game=0
 +CVars=ShowFlag.LOD=0
 +CVars=ShowFlag.Landscape=0
